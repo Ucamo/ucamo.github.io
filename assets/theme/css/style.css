@@ -923,3 +923,6 @@ blockquote {
 	top: 0;
 	left: -2400px;
 }
+.medium-widget-article__column .medium-widget-article__image img {
+    height: 100%;
+}
