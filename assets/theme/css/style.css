@@ -929,3 +929,7 @@ blockquote {
 .mbr-section-subtitle h5{
     font-size: 1.5rem;
 }
+.icon-profile{
+    width: 70%;
+    border-radius: 50%;	
+}
