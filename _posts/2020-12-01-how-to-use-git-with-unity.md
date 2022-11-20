@@ -43,13 +43,13 @@ Now, after using a `.gitignore` file, we can see that our project will look some
 every green line is being detected as a change in the repository.
 
 ### Tips and tricks for using Unity and git
-#### What’s something that we should include in the project?
+### What’s something that we should include in the project?
 You can include code files, images, sound files, scenes, just keep in mind that git can handle big files but it’s mostly used for light files sizes, if you feel the need to share really big files (ie: more than 200 mb), maybe use another internal option within your team for those files (maybe Google Drive), since having a repository that’s usually heavy is a bad practice.
 
-#### What to do with merge conflicts?
+### What to do with merge conflicts?
 If they are code, you can merge it with your external merge tool, but for metadata files, there’s not an easy way of doing this, so pick whatever version makes more sense and then manually include the appropiate changes, I bet there’s a more sophisticated way of doing this but if you don’t have the time, this approach is way easier.
 
-#### What if you get the latest commits of the repository and there’s some weird problems with the plugins or some internal errors in the editor?
+### What if you get the latest commits of the repository and there’s some weird problems with the plugins or some internal errors in the editor?
 Some of the possible reasons for that are:
 
 - You and your team are using different versions of the Unity Editor, make sure you decide in which version to use. It’s recommended to use the latest stable version at the start of the project and stick with it until the end if you don’t want any problem with this.
