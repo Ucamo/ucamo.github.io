@@ -1,4 +1,4 @@
-## How to use Git with Unity.
+## How to use Git with Unity
 <img src="https://raw.githubusercontent.com/Ucamo/ucamo.github.io/main/assets/images/how_to_use_git/1_9qBdoZeHYcaEB64dnwwzgw.png" width="50%" height="25%" alt="Git and Unity">
 
 Let’s picture this, you are working on a document or project, everything is going super, you have everything in place and you are pretty confident with how it’s looking, however, you want to add just a tiny little extra thing to make the whole thing a lot better, you are in the zone today, you finish up adding that extra feature, or that new layout and… now it’s not looking that great, it’s not working the way it was 3 minutes ago, you hit ctrl+Z in hopes to make everything as it was but… nothing… it’s not working as it was before and it’s not working as you wanted with this new changes, has this happen to you?
