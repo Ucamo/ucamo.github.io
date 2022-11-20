@@ -21,6 +21,6 @@ I'm a Unity Game Developer eager to share my work with everyone. Drop me a line 
 
 
 # My latest Youtube videos
-
-[<img src='https://img.youtube.com/vi/Dp8BheHMrO8/0.jpg' width=25% height=25%>](https://www.youtube.com/watch?v=Dp8BheHMrO8)
-[<img src='https://img.youtube.com/vi/udeCVByDEAg/0.jpg' width=25% height=25%>](https://www.youtube.com/watch?v=udeCVByDEAg)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=Dp8BheHMrO8"><img src="https://img.youtube.com/vi/Dp8BheHMrO8/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
