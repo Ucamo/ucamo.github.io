@@ -22,6 +22,6 @@ I'm a Unity Game Developer eager to share my work with everyone. Drop me a line 
 
 # My latest Youtube videos
 <div align="center">
-  <a href='https://www.youtube.com/watch?v=Dp8BheHMrO8'><img src='https://img.youtube.com/vi/Dp8BheHMrO8/0.jpg' alt='Crea juego Twitch chat con Unity' width='25%' height='25%'></a>
-    <a href="https://www.youtube.com/watch?v=udeCVByDEAg"><img src="https://img.youtube.com/vi/udeCVByDEAg/0.jpg" alt="Multijugador en linea unity" width=25% height=25%></a>
+  <a href='https://www.youtube.com/watch?v=Dp8BheHMrO8'><img src='https://img.youtube.com/vi/Dp8BheHMrO8/0.jpg' alt='Crea juego Twitch chat con Unity' width='30%' height='30%'></a>
+    <a href='https://www.youtube.com/watch?v=udeCVByDEAg'><img src='https://img.youtube.com/vi/udeCVByDEAg/0.jpg' alt='Multijugador en linea unity' width='30%' height='30%'></a>
 </div>
