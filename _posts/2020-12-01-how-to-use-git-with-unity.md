@@ -7,7 +7,7 @@ Git is the tool that would save you from situations like this.
 
 Git is a widely used version control system in the tech industry and has become a standard tool for developers and designers.
 
-### Basically what Git does is:
+### *Basically what Git does is:*
 - Save your file or project in a state that you are comfrotable with.
 - You can change the project whever you want.
 - If you are comfortable with the result, you can save that state again and keep moving forward or you can revert it back to the state it was before.
@@ -26,7 +26,7 @@ And learn how to use it [here](https://learngitbranching.js.org/) (but if you ha
 
 Unity projects contains files that don’t really need to be versioned, those files, between others, are metadata files that are basically environment configuration of your instance of Unity running on your machine, and if another member of the team pick your changes in the repository, between those innecesary files versioned and theirs, there would be a conflict because those 2 machines are not exactly the same.
 
-### Let’s see an example:
+### *Let’s see an example:*
 This is a brand new unity project with all the files that change from one commit to another.
 <img src="https://raw.githubusercontent.com/Ucamo/ucamo.github.io/main/assets/images/how_to_use_git/1_lEHrL6cAsMi18zuegIfcUA.gif" width="100%" height="50%" alt="Git and Unity">
 *Every green line is one file that it’s has been “updated” according to Unity.*
@@ -42,14 +42,15 @@ Now, after using a `.gitignore` file, we can see that our project will look some
 
 every green line is being detected as a change in the repository.
 
-### Tips and tricks for using Unity and git
-### What’s something that we should include in the project?
+### *Tips and tricks for using Unity and git*
+
+### *What’s something that we should include in the project?*
 You can include code files, images, sound files, scenes, just keep in mind that git can handle big files but it’s mostly used for light files sizes, if you feel the need to share really big files (ie: more than 200 mb), maybe use another internal option within your team for those files (maybe Google Drive), since having a repository that’s usually heavy is a bad practice.
 
-### What to do with merge conflicts?
+### *What to do with merge conflicts?*
 If they are code, you can merge it with your external merge tool, but for metadata files, there’s not an easy way of doing this, so pick whatever version makes more sense and then manually include the appropiate changes, I bet there’s a more sophisticated way of doing this but if you don’t have the time, this approach is way easier.
 
-### What if you get the latest commits of the repository and there’s some weird problems with the plugins or some internal errors in the editor?
+### *What if you get the latest commits of the repository and there’s some weird problems with the plugins or some internal errors in the editor?*
 Some of the possible reasons for that are:
 
 - You and your team are using different versions of the Unity Editor, make sure you decide in which version to use. It’s recommended to use the latest stable version at the start of the project and stick with it until the end if you don’t want any problem with this.
