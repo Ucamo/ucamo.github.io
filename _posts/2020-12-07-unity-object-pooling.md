@@ -16,7 +16,7 @@ _GameObjects intantiated will be moving downwards infinetly. (Look how the list 
 
 If you want to follow along, create a 3D object (it can be an empty object too, but I wanted to show it on the images so it would be clearer) and create a SpawnerController c# file and assign it to it.
 
-```c#
+```cs
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -62,7 +62,7 @@ Now, something that we can do in that case for those marbles is:
 
 _If a marble touches the bottom rectangle, it will Destroy it._
 
-```c#
+```cs
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -87,7 +87,7 @@ Now that’s some of the rules we can have for our game, normally we could think
 * When you want them to make it “dissapear”, don’t destroy it, de-activate it and return it to the pool.
 * Repeat
 
-```c#
+```cs
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -139,7 +139,7 @@ public class SpawnController : MonoBehaviour
 
 _This is the base Object Pooling implementation_
 
-```c#
+```cs
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -161,7 +161,7 @@ _In this case, a set of GameObjects are created at the Start of the Scene (inact
 ### What if there is a need of more object that’s what’s currently in the pool?
 If that’s the case, we can instantiate a new one, use it, and when we no longer need it, de-activate it and put in on the pool with the others. Instantiate games is not a bad thing so we can use it all the time, but if we already have some pool of objects ready to be used, we can use those objects first, and if needed, create a new one, but having the same behavior for re-using those too in our pool.
 
-```c#
+```cs
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
