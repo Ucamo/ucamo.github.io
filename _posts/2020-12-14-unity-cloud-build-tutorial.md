@@ -1,5 +1,5 @@
 # Unity Cloud Build Tutorial.
-[IMG1]
+<img src="https://raw.githubusercontent.com/Ucamo/ucamo.github.io/main/assets/images/unity_cloud_build_Tutorial/img_1.webp" width="80%" height="50%" alt="Unity Cloud build tutorial">
 
 Cloud build is a service included on Unity Teams Advance that let you set up your existing source control repository to automate the compiling, deployment and tests of your games so you can iterate quickly with your team.
 
@@ -21,7 +21,7 @@ Yes, you can build for the iOs platform on Unity Cloud Build, but to do that, yo
 
 After that, you can continue using Unity Cloud Build to make new versions of that project without the need to use a Mac. But please note that for uploading your project to the App Store, you will need to do so through XCode, so you will also need access to a Mac for that.
 
-[IMG2]
+<img src="https://raw.githubusercontent.com/Ucamo/ucamo.github.io/main/assets/images/unity_cloud_build_Tutorial/img_2.webp" width="80%" height="50%" alt="a macbook pro in a desk">
 
 Personally, I have been down that rabbit hole before, and comming up from a Microsoft/Windows based background, this transition was hard for me. Some stuff that I learnead along the way:
 
