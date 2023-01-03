@@ -312,21 +312,27 @@ For [LunarCrown](http://lunarcrown.com/) there are surely more projects, but giv
 <img src="https://raw.githubusercontent.com/Ucamo/ucamo.github.io/main/assets/images/postmortem_Dots_of_War/img_21.png" width="80%" height="50%" alt="Dots of War logo">
 
 ## Credits
+
 **Game Design, 2D art**
+
 Arvin Valenzuela
 
 **UX-UI, Quality Assurance**
+
 Jose Miguel Angulo
 
 **Art Director, 2D art**
+
 [Roberto Carlos Nuñez](https://www.instagram.com/carlosnlart/)
 
 **3D art**
+
 [Mariel Rojas Pérez](https://www.instagram.com/rojasmariel/)
 
 [Sergio Mireles](https://smirelesz.artstation.com/)
 
 **Programming**
+
 [Antonio Martinez](https://gatomocho.com/)
 
 [Uriel Carrillo](https://ucamo.github.io/)
