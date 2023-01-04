@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Ucamo/ucamo.github.io/main/assets/images/how-to-use-streaming-assets-unity/how-to-use-streaming-assets-unity.avif" width="80%" height="50%" alt="How to use streaming assets in Unity">
 
+[Originally posted on LogRocket on August 24,2022](https://blog.logrocket.com/how-to-use-streaming-assets-unity/)
+
 An asset can be any resource in Unity; those resources can be images, audio, video, scripts, text, etc.
 
 When building a Unity project to any platform, all the assets in your game will be “packaged” in a file (or more depending on your platform), and the resulting size of the build will depend on the size of the assets you decided to package within your game.
