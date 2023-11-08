@@ -46,7 +46,7 @@ I would have liked to see more exploration of LINQ implementations and a better 
 Then the book moves on to the next topics and leaves LINQ aside, and I would like to emphasize that it is not the book's fault, it is my fault for expecting something from a book that I didn't know if it was going to be focused on my needs, so I blame myself.
 
 
-### **Would I recommend?**
+### **Would I recommend it?**
 
 In conclusion, this book is focused on a very particular type of programmers, but I am not a part of that type of programmers.
 
