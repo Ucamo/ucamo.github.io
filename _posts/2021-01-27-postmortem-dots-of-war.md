@@ -267,7 +267,7 @@ We had an entire marketing strategy planned before launch that included:
 
 But any face-to-face activity was totally ruled out as of March 2020 here in Mexico when the quarantine plans officially began.
 
-<img src="https://raw.githubusercontent.com/Ucamo/ucamo.github.io/main/assets/images/postmortem_Dots_of_War/img_19.png" width="80%" height="50%" alt="Dots of war wizard cowboy skin art">
+<img src="https://raw.githubusercontent.com/Ucamo/ucamo.github.io/main/assets/images/postmortem_Dots_of_War/img_20.png" width="80%" height="50%" alt="Dots of war wizard cowboy skin art">
 
 Being a team that already worked remotely, it did not affect us at the time of work but we were quite affected in other areas, both in our formal work and in our interpersonal relationships, there were months of a lot of personal stress so we didn’t asked anyone to do more work than they were comfortable with and we relaxed the notion of due dates quite a bit.
 
@@ -295,7 +295,7 @@ Long before starting this project, we talked to team members about creating a ga
 
 We are very happy with the results we had and with the decisions we made, but we are also very happy with the other decisions that we did not make.
 
-<img src="https://raw.githubusercontent.com/Ucamo/ucamo.github.io/main/assets/images/postmortem_Dots_of_War/img_20.png" width="80%" height="50%" alt="LunarCrown logo">
+<img src="https://raw.githubusercontent.com/Ucamo/ucamo.github.io/main/assets/images/postmortem_Dots_of_War/img_21.png" width="80%" height="50%" alt="LunarCrown logo">
 
 ### **What’s next?**
 
@@ -309,7 +309,7 @@ It‘s OK to learn from our experiences and not think that they were a failure, 
 
 For [LunarCrown](http://lunarcrown.com/) there are surely more projects, but given the current situation, we do not know what form they may take in the immediate future, but we are sure that we will count on each other to continue supporting each other.
 
-<img src="https://raw.githubusercontent.com/Ucamo/ucamo.github.io/main/assets/images/postmortem_Dots_of_War/img_21.png" width="80%" height="50%" alt="Dots of War logo">
+<img src="https://raw.githubusercontent.com/Ucamo/ucamo.github.io/main/assets/images/postmortem_Dots_of_War/img_22.png" width="80%" height="50%" alt="Dots of War logo">
 
 ## Credits
 
