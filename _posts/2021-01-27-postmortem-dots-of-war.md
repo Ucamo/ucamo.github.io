@@ -219,7 +219,7 @@ _Optional Samurai Skin for Humans_
 
 We are a team that likes to share updates, bugs and other details during the development process of a game, Dots of War was no exception, we did not have a pre-established Marketing campaign apart from the diffusion that we gave to the game with acquaintances, relatives and on social networks.
 
-We liked to participate in a post swhere progress was shared or in #screenshotsaturday.
+We liked to participate in posts where progress was shared or in #screenshotsaturday.
 
 Given the great progress we had, we made what I consider to be the biggest mistake during the entire project development process.
 
@@ -249,7 +249,7 @@ Right before launch we did the media outreach by sending personalized emails to 
 
 ### **When you realize that the last 10% is actually the last 30%**
 
-<img src="https://raw.githubusercontent.com/Ucamo/ucamo.github.io/main/assets/images/postmortem_Dots_of_War/img_18.png" width="80%" height="50%" alt="Dots of war stone robot skin">
+<img src="https://raw.githubusercontent.com/Ucamo/ucamo.github.io/main/assets/images/postmortem_Dots_of_War/img_19.png" width="80%" height="50%" alt="Dots of war stone robot skin">
 
 Once we launched the game and had the external impressions, we noticed some minor bugs, and a major one (the skins could not be bought), we had a group of alpha users who helped us a lot during development, but we never tested directly that part with them, only internally.
 
