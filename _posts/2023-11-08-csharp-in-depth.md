@@ -35,7 +35,7 @@ These topics are very well explained: **Generics, Delegates, Anonymous Types, La
 
 If you have any questions about how to implement any of these topics, I recommend this book, Jon Skeet gives an excellent explanation of them.
 
-### **Topics he hoped would be better explained: LINQ**
+### **Topics I hoped would be better explained: LINQ**
 
 There is an entire chapter dedicated to LINQ, and I was waiting to read it because I have seen it in several of my projects that I collaborate on and in general as an answer to various StackOverflow issues. I have worked with LINQ but I always felt that I didn't really understand what was happening in very long queries or perhaps I was implementing them inappropriately, so, upon picking up a book called “C# in depth” with an entire chapter dedicated to LINQ, I thought it was a great opportunity to master the subject.
 
